@@ -1,5 +1,5 @@
-# IUDNT
-IUDNT: Main implementation of IUDNT
+# LDI
+IUDNT: Main implementation of LDI
 
 Simulated Infection Data: Code for simulating infection data
 
